@@ -1,6 +1,8 @@
 
 # First of all, let's talk about why Ophthalmology and Artificial Intelligence overlap so much:
 
+![Bionic-Eye-Concept](https://github.com/KocHanim/Diabetic-Retinopathy-Diagnosis-with-Artificial-Intelligence--Transfer-Learning-Efficient-B5--APTOS-/assets/115664157/754cabb4-d149-472d-962a-414028b5fee8)
+
 The most important feature that distinguishes ophthalmology from other branches is that it uses especially the sense of sight in the clinic. 
 They see pathological findings in patients and make a diagnosis by analysing them. Nowadays, with the increase in the computing power of computers, deep learning models have become able to analyse images. 
 Since most of the data to be analysed in ophthalmology is image-based and therefore the analysis of the data is related to image recognition,
