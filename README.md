@@ -1,4 +1,3 @@
-# Diabetic-Retinopathy-Diagnosis-with-Artificial-Intelligence
 
 ## First of all, let's talk about why Ophthalmology and Artificial Intelligence overlap so much:
 
