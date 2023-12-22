@@ -35,7 +35,6 @@ Our eye transmits the image it sees to the brain through nerves. These nerves ar
 In order to make this classification, I would like to talk about the basic features of pathological findings.
 Diabetes disrupts the structure of the capillaries in the retina, leads to cell loss, disruption of vascular permeability, accumulation of fluid and oily substances in the yellow spot area, and causes the capillaries to be blocked and non-nourished areas to appear. It forms new vessels in the retina that can bleed spontaneously. Haemorrhages in front of and inside the retina can leak into the posterior cavity of the eye. Vascularised membranes form in the retina and can lead to severe visual loss and painful eye pressure increases. All these findings distinguish the healthy eye from the sick eye.
 
-<img src="https://gadsdeneye.com/wp-content/uploads/diabetic-retinopathy-vector.jpg">
 
 ## The dataset used in the project
 In the project, the data set of the APTOS 2019 Blindness Detection competition on the kaggle site was used. 
