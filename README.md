@@ -54,9 +54,13 @@ The proposed method improves the quality of the DR image while preserving sharpn
 
 -> **Transfer Learning** , suppose you are building a deep learning model but you do not have enough data. For example, you are trying to identify a rare skin disease and you have only 100 images. Meanwhile, for another project, you trained a classification model with a dataset containing 100,000 cat-dog photos and achieved a high accuracy score.  Although these two examples seem unrelated to each other, they are actually related. Because basically all computer vision models try to detect similar patterns. When you train a model with thousands of data, it becomes able to identify image features such as weights, edges, shapes, patterns and pixels of different densities in different layers. Thanks to these learned features, the model trained for cat-dog classification can even diagnose a rare skin disease.  You only need to remove the last layer of the cat-dog model, which calculates probabilities, and replace it with the classification layer appropriate to your data.
 The most important feature of Transfer Learning:
+
 -Short time
+
 -Low data 
+
 -High Accuracy
+
 Ability to create models.
 
 
