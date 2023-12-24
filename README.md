@@ -51,7 +51,6 @@ The proposed method improves the quality of the DR image while preserving sharpn
 
 <img src="https://www.mdpi.com/sensors/sensors-23-00570/article_deploy/html/images/sensors-23-00570-g001.png" alt="images" align="right" width="500" height="300">
 
-
 -> **Transfer Learning** , suppose you are building a deep learning model but you do not have enough data. For example, you are trying to identify a rare skin disease and you have only 100 images. Meanwhile, for another project, you trained a classification model with a dataset containing 100,000 cat-dog photos and achieved a high accuracy score.  Although these two examples seem unrelated to each other, they are actually related. Because basically all computer vision models try to detect similar patterns. When you train a model with thousands of data, it becomes able to identify image features such as weights, edges, shapes, patterns and pixels of different densities in different layers. Thanks to these learned features, the model trained for cat-dog classification can even diagnose a rare skin disease.  You only need to remove the last layer of the cat-dog model, which calculates probabilities, and replace it with the classification layer appropriate to your data.
 The most important feature of Transfer Learning:
 
@@ -62,6 +61,8 @@ The most important feature of Transfer Learning:
 -High Accuracy
 
 Ability to create models.
+
+<img src="https://github.com/rumeysakocc/Diabetic-Retinopathy-Diagnosis-with-Artificial-Intelligence--Transfer-Learning-Efficient-B5--APTOS-/assets/115664157/4032d58e-c220-4aae-b0db-dffe5a6249ad" alt="images" align="right" width="500" height="300">
 
 
 -> **Efficient B5** is a deep learning model belonging to the EfficientNet family. EfficientNet is a kind of Convolutional Neural Network (CNN) architecture developed by Google Brain. This architecture has an efficient structure in terms of both depth and computation.
